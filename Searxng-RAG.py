@@ -23,6 +23,7 @@ print(response)
 # docker run -d -p 8888:8080 searxng/searxng
 # docker ps
 # docker exec -it <container_id_or_name> sh
+# - html and include -json
 # vi /etc/searxng/settings.yml
 # docker restart <container_id_or_name>
 
